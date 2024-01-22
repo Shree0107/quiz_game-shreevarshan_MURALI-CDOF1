@@ -1,0 +1,17 @@
+[
+    {
+        "prompt": "What is the 4th letter of the Greek alphabet?",
+        "options": ["A. Alpha", "B. Beta", "C. Gamma", "D. Delta"],
+        "answer": "D"
+    },
+    {
+        "prompt": "Who discovered that the earth revolves around the sun?",
+        "options": ["A. Johannes Kepler", "B. Galileo Galilei", "C. Nicolaus Copernicus", "D. Tycho Brahe"],
+        "answer": "C"
+    },
+    {
+        "prompt": "In what country would you find Mount Kilimanjaro?",
+        "options": ["A. Kenya", "B. Tanzania", "C. Uganda", "D. Rwanda"],
+        "answer": "B"
+    }
+]
