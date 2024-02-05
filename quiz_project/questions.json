@@ -13,5 +13,55 @@
         "prompt": "In what country would you find Mount Kilimanjaro?",
         "options": ["A. Kenya", "B. Tanzania", "C. Uganda", "D. Rwanda"],
         "answer": "B"
+    },
+    {
+        "prompt": "What is the capital city of Japan?",
+        "options": ["A. Beijing", "B. Seoul", "C. Tokyo", "D. Bangkok"],
+        "answer": "C"
+    },
+    {
+        "prompt": "Who wrote 'To Kill a Mockingbird'?",
+        "options": ["A. J.K. Rowling", "B. Harper Lee", "C. Ernest Hemingway", "D. F. Scott Fitzgerald"],
+        "answer": "B"
+    },
+    {
+        "prompt": "What is the chemical symbol for water?",
+        "options": ["A. H2O", "B. CO2", "C. O2", "D. N2"],
+        "answer": "A"
+    },
+    {
+        "prompt": "Which scientist formulated the laws of motion and universal gravitation?",
+        "options": ["A. Isaac Newton", "B. Albert Einstein", "C. Nikola Tesla", "D. Marie Curie"],
+        "answer": "A"
+    },
+    {
+        "prompt": "Where is the Great Barrier Reef located?",
+        "options": ["A. Hawaii", "B. Australia", "C. Bahamas", "D. Maldives"],
+        "answer": "B"
+    },
+    {
+        "prompt": "Who is the author of '1984'?",
+        "options": ["A. Aldous Huxley", "B. George Orwell", "C. Ray Bradbury", "D. J.R.R. Tolkien"],
+        "answer": "B"
+    },
+    {
+        "prompt": "What is the largest mammal in the world?",
+        "options": ["A. Elephant", "B. Giraffe", "C. Blue Whale", "D. Polar Bear"],
+        "answer": "C"
+    },
+    {
+        "prompt": "Who developed the theory of relativity?",
+        "options": ["A. Isaac Newton", "B. Albert Einstein", "C. Max Planck", "D. Werner Heisenberg"],
+        "answer": "B"
+    },
+    {
+        "prompt": "Which planet is known as the 'Blue Planet'?",
+        "options": ["A. Earth", "B. Neptune", "C. Uranus", "D. Venus"],
+        "answer": "A"
+    },
+    {
+        "prompt": "In what year did the first human step onto the moon?",
+        "options": ["A. 1969", "B. 1975", "C. 1981", "D. 1993"],
+        "answer": "A"
     }
 ]
